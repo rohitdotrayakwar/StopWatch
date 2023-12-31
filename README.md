@@ -1,3 +1,17 @@
+#Screenshoot
+
+![image](https://github.com/rohitdotrayakwar/StopWatch/assets/153349651/59cc19d3-0f89-4fdd-a729-8877af1391a6)
+Start
+![image](https://github.com/rohitdotrayakwar/StopWatch/assets/153349651/90d9e944-d96d-49ec-a496-cec7db3013ee)
+Pause
+![image](https://github.com/rohitdotrayakwar/StopWatch/assets/153349651/e99db09c-1fd7-43f2-bec6-9ae9bac4efff)
+Reset
+![image](https://github.com/rohitdotrayakwar/StopWatch/assets/153349651/adb586ed-e70f-40c4-8c60-bc6bbe8378fd)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
